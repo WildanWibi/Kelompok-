@@ -1,4 +1,4 @@
-public class KelompokGitHub {
+public class KelompokGitHubWildan {
     public static void main(String[] args) {
         System.out.println("Nama    : M Wildan Wibisono");
         System.out.println("Nim     : 244107060118");
