@@ -1,3 +1,3 @@
 # Dasar Pemrograman - Jobsheet 2
 
-Hallo Github, ini adalah kelompok saya.
+Hallo Github, ini adalah repository pertama saya.
